@@ -1,6 +1,6 @@
 ## DAML LSP Development Fund Proposal
 
-**Author:** 0xfourzerofour
+**Author:** Joshua Pauline
 **Status:** Submitted
 **Created:** 2026-02-19
 
@@ -129,12 +129,12 @@ The Tech & Ops Committee will evaluate completion based on:
 
 ## Funding
 
-**Total Funding Request:** 300000 CC
+**Total Funding Request:** 500000 CC
 
 ### Payment Breakdown by Milestone
-- Milestone 1 _(Parser and Core Infrastructure)_: 100000 CC upon committee acceptance
-- Milestone 2 _(Diagnosticskand Navigation)_: 100000 CC upon committee acceptance
-- Milestone 3 _(Autocompletion, Code Actions, and Editor Support)_: 100000 CC upon final release and acceptance
+- Milestone 1 _(Parser and Core Infrastructure)_: 150000 CC upon committee acceptance
+- Milestone 2 _(Diagnosticskand Navigation)_: 150000 CC upon committee acceptance
+- Milestone 3 _(Autocompletion, Code Actions, and Editor Support)_: 200000 CC upon final release and acceptance
 
 ---
 
